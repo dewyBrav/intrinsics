@@ -20,6 +20,8 @@ void bar()
 
     for (int i = 0; i < 4; ++i)
         std::cout << array_c[i] << ' ';
+
+    
 }
 
 int main()
