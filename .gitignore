@@ -1,0 +1,14 @@
+
+# gitignore .exe, .a, .o
+# gitignore .vscode/* 
+
+### VisualStudioCode ###
+.vscode/*      
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+*.exe
+*a
+*o
